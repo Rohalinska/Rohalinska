@@ -1,16 +1,15 @@
-## Hi there 👋
+# Привіт, я Олександра 👋
 
-<!--
-**Rohalinska/Rohalinska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Про мене
+- 🎓 Навчаюся на ІПЗ
+- 🚀 Цікавлюся спортом
 
-Here are some ideas to get you started:
+## 🛠 Технологічний стек
+- **Мови:** JavaScript, Python, Java, HTML, С#
+- **Фреймворки & Бібліотеки:** React, Node.js, Spring Boot
+- **Бази даних:** PostgreSQL, MongoDB
+- **Інструменти:** Git, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Як зі мною зв'язатися
+- **Email:** rohalinska.o_ipz23@rcit.ukr.education
+- **Telegram:** @prostoTAKi71
