@@ -5,7 +5,7 @@
 - 🚀 Цікавлюся спортом
 
 ## 🛠 Технологічний стек
-- **Мови:** JavaScript, Python, Java, HTML, С#
+- **Мови:** Python, HTML, С#
 - **Фреймворки & Бібліотеки:** React, Node.js, Spring Boot
 - **Бази даних:** PostgreSQL, MongoDB
 - **Інструменти:** Git, VS Code
